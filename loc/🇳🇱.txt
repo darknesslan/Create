@@ -1,4 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://19520834-ea72-480c-b55f-2b14ca19b4c2@78.157.59.161:29108/?type=ws&encryption=none&flow=&host=sSPR2.divarcdn.com,RFT0N.snappfood.ir,ENlKX.yjc.ir,stJEU.digikala.com,emp4W.tic.ir&path=/Almas2#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://19520834-ea72-480c-b55f-2b14ca19b4c2@almas2.alireza031.shop:29108?encryption=none&security=none&type=ws&host=sSPR2.divarcdn.com,RFT0N.snappfood.ir,ENlKX.yjc.ir,stJEU.digikala.com,emp4W.tic.ir&path=/Almas2#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1

@@ -1,4 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@46.29.34.204:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@46.29.34.204:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@46.29.34.204:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
